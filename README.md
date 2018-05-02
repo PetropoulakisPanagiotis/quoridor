@@ -26,4 +26,4 @@ Note: follow 1,2,3,4, and 5 commands in given order
 * 11. showboard
 * 12. known_command
 
-In this project https://github.com/AndCharalampous help a lot !!
+In this project https://github.com/AndCharalampous helped a lot !!
