@@ -1,8 +1,8 @@
 # Quoridor game 
-Reference: https://en.wikipedia.org/wiki/Quoridor
+A simple console application for quoridor game 
+Find more informations in https://en.wikipedia.org/wiki/Quoridor
 
-## Run quoridor
-Note: follow 1,2,3,4, and 5 commands in given order 
+## How to play quoridor 
 * 1. make: compilation
 * 2. ./quoridor: rum quoridor
 * 3. boardsize 9: set board size(Note: official game has board size 9. This programm works with boardsize 5, 7 or 9)
@@ -11,6 +11,7 @@ Note: follow 1,2,3,4, and 5 commands in given order
 * 6. showboard
 * 7. genmove black: Computer player will play first(Note: this game can be played wiht one or two players)  
 * 8. playmove white E2: move white player to E2 square
+Note: Follow 1,2,3,4, and 5 commands in given order 
 
 ## Commands
 * 1. version
