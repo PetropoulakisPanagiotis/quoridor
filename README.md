@@ -1,8 +1,8 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br />
 # Quoridor game 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Quoridor_1.jpg/800px-Quoridor_1.jpg" width="250" height="250" />
 A simple console application for quoridor game<br />
-Find more informations in https://en.wikipedia.org/wiki/Quoridor
+Find more informations in: https://en.wikipedia.org/wiki/Quoridor
 
 ## How to play quoridor 
 * 1. make: compilation
