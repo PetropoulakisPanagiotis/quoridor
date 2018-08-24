@@ -1,5 +1,5 @@
 # Quoridor game 
-A simple console application for quoridor game 
+A simple console application for quoridor game<br />
 Find more informations in https://en.wikipedia.org/wiki/Quoridor
 
 ## How to play quoridor 
