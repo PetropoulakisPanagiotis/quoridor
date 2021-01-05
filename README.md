@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br />
 # Quoridor game 
-<p align="center"
+<p align="center">
  <img  width="250" height="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Quoridor_1.jpg/800px-Quoridor_1.jpg"/>
 </p>
 A simple console application for quoridor game<br />
