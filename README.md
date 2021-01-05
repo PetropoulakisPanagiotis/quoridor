@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br />
 # Quoridor game 
 <p align="center">
- <img  width="250" height="250" src="./quoridor.jpg"/>
+ <img  width="270" height="270" src="./quoridor.jpg"/>
 </p>
 A simple console application for quoridor game<br />
 Find more informations in: https://en.wikipedia.org/wiki/Quoridor
