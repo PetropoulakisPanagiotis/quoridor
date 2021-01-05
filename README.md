@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br />
-# Quoridor game 
+# Quoridor 
 <p align="center">
  <img  width="270" height="270" src="./quoridor.jpg"/>
 </p>
