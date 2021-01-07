@@ -19,7 +19,7 @@ Run the following commands to play:
 8. $ playmove white E2 # Player 1 moves its pawn to quare E2(Computer player can be replaced by an "actual" player. Just type playmove black XX).  
 9. Repeat steps 6, 7 and 8.
 ```
-:zap:Note: Run the commands 1,2,3,4, and 5 in the given order 
+:zap:Note: Run commands 1,2,3,4, and 5 in the given order 
 
 ## Available commands
 * version
