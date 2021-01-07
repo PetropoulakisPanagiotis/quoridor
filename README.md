@@ -8,6 +8,7 @@ You can find more information about Quoridor at https://en.wikipedia.org/wiki/Qu
 
 ## How to play quoridor 
 Follow the next steps to play: 
+```
 1. make: compilation
 2. ./quoridor: create a new game
 3. boardsize 9: set board size. The board size of the official game is 9. The user can also set boardsize to 5 or 7.
@@ -17,7 +18,7 @@ Follow the next steps to play:
 7. genmove black: The Computer player will generate a new move.
 8. playmove white E2: Player 1 moves its pawn to quare E2(Computer player can be replaced by an "actual" player. Just type playmove black XX).  
 9. Repeat steps 7 and 8.
-
+```
 :zap:Note: Type 1,2,3,4, and 5 commands in the given order 
 
 ## Available commands
