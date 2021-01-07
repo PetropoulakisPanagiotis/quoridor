@@ -3,19 +3,21 @@
 <p align="center">
  <img  width="270" height="270" src="./quoridor.jpg"/>
 </p>
-A simple console application for quoridor game<br />
-Find more informations in: https://en.wikipedia.org/wiki/Quoridor
+A simple console application for the quoridor game. You can find more information about quoridor at https://en.wikipedia.org/wiki/Quoridor.
 
 ## How to play quoridor 
+Follow the next steps to play: 
 1. make: compilation
-2. ./quoridor: rum quoridor
-3. boardsize 9: set board size(official game has board size 9. This programm works also with boardsize 5 or 7)
-4. clear_board: set game(place pawns etc.) 
-5. walls 5: Each player will have 5 walls to use. You can change this number
+2. ./quoridor: create a new game
+3. boardsize 9: set board size. The board size of the official game is 9. The user can set boardsize even to 5 or 7.
+4. clear_board: start a new game(set pawns etc.) 
+5. walls 5: Set max available walls per player.
 6. showboard
-7. genmove black: Computer will play first(this game can be played with two players)  
-8. playmove white E2: Now is your move move go to E2 square
-Note: Follow 1,2,3,4, and 5 commands in given order 
+7. genmove black: The Computer player will generate a new move.
+8. playmove white E2: Player 1 moves its pawn to quare E2(Computer player can be replaced by an "actual" player. Just type playmove black XX).  
+9. Repeat steps 7 and 8.
+
+:zap:Note: Type 1,2,3,4, and 5 commands in the given order 
 
 ## Available commands
 * version
