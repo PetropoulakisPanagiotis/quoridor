@@ -3,7 +3,8 @@
 <p align="center">
  <img  width="270" height="270" src="./quoridor.jpg"/>
 </p>
-A simple console application for the Quoridor game. You can find more information about quoridor at https://en.wikipedia.org/wiki/Quoridor.
+A simple console application for the Quoridor game. 
+You can find more information about Quoridor at https://en.wikipedia.org/wiki/Quoridor.
 
 ## How to play quoridor 
 Follow the next steps to play: 
