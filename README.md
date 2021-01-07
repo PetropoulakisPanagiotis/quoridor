@@ -13,7 +13,7 @@ Run the following commands to play:
 2. $ ./quoridor # create a new game
 3. $ boardsize 9 # set board size. The board size of the official game is 9. The user can also set boardsize to 5 or 7.
 4. $ clear_board # start a new game(set pawns etc.) 
-5. $ walls 5 #Set max available walls per player.
+5. $ walls 5 # Set max available walls per player.
 6. $ showboard
 7. $ genmove black # The Computer player will generate a new move.
 8. $ playmove white E2 # Player 1 moves its pawn to quare E2(Computer player can be replaced by an "actual" player. Just type playmove black XX).  
